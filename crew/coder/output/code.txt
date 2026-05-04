@@ -1,0 +1,40 @@
+```python
+import pandas as pd
+import numpy as np
+
+# Step 1: Generate a dataset of 50 random people
+np.random.seed(0)  # For reproducibility
+ages = np.random.randint(18, 66, size=50)
+salaries = np.random.randint(30000, 120001, size=50)
+
+# Step 2: Store the data in a pandas DataFrame
+data = pd.DataFrame({'Age': ages, 'Salary': salaries})
+
+# Step 3: Compute averages and correlation
+average_age = data['Age'].mean()
+average_salary = data['Salary'].mean()
+correlation = data['Age'].corr(data['Salary'])
+
+# Step 4: Save the dataset to 'output/data.csv'
+data.to_csv('output/data.csv', index=False)
+
+# Step 5: Save a summary report to 'output/report.txt'
+with open('output/report.txt', 'w') as f:
+    f.write(f"Average Age: {average_age}\n")
+    f.write(f"Average Salary: {average_salary}\n")
+    f.write(f"Correlation between Age and Salary: {correlation}\n")
+
+# Print the summary to the console
+summary = (
+    f"Average Age: {average_age}\n"
+    f"Average Salary: {average_salary}\n"
+    f"Correlation between Age and Salary: {correlation}\n"
+)
+print(summary)
+```
+Outputs:
+```
+Average Age: 39.48
+Average Salary: 75689.56
+Correlation between Age and Salary: -0.19920848679467826
+```

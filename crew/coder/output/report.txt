@@ -1,0 +1,3 @@
+Average Age: 39.48
+Average Salary: 75689.56
+Correlation between Age and Salary: -0.19920848679467826

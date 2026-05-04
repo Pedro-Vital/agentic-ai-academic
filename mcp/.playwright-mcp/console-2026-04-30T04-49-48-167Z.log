@@ -1,0 +1,46 @@
+[     449ms] [LOG] ContentPass | Sourcepoint not loaded yet. Retrying. @ https://www.bbcgoodfood.com/recipes/banoffee-pie:362
+[     617ms] [LOG] ContentPass | Starting Sourcepoint @ https://www.bbcgoodfood.com/recipes/banoffee-pie:357
+[    1024ms] [LOG] Zephr onDOMReady about to fired. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1056ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1058ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1059ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1060ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1061ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1062ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1063ms] [LOG] Initializing OpenWebSSO component @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1064ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1335ms] [LOG] Using Auth0's UserContext (repeated 8 times) @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1336ms] [LOG] Missing required settings. Skipping. {spotId: undefined, useIdentitySso: undefined} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1336ms] [LOG] Missing required settings for logout check. Skipping. {spotId: undefined, useIdentitySso: undefined} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1389ms] [LOG] Hydration complete after 25.80 ms @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1398ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1399ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1478ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1551ms] [LOG] Messaging without detection successfully executed. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1552ms] [LOG] SourcePoint | [event] onSPPMObjectReady [undefined] @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1607ms] [LOG] SourcePoint | [event] onMessageReceiveData [gdpr, Object] @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1613ms] [ERROR] Consentless Inventory | Cannot retreive Consent Data {hasConsented: false} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1669ms] [LOG] Zephr: Setting up consolidated consent synchronization @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1670ms] [LOG] Zephr: Setting up consolidated consent synchronization @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1673ms] [LOG] CMP UI shown - waiting for user consent resolution before Zephr starts. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1675ms] [LOG] CMP UI shown - waiting for user consent resolution before Zephr starts. @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1685ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1686ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1687ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1688ms] [LOG] Using Auth0's UserContext (repeated 3 times) @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1688ms] [LOG] Initializing OpenWebSSO component @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1689ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1689ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1690ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1692ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    1818ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2144ms] [LOG] Using Auth0's UserContext (repeated 4 times) @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2144ms] [LOG] Missing required settings. Skipping. {spotId: undefined, useIdentitySso: undefined} @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2193ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2194ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2195ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2246ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2250ms] [LOG] Using Auth0's UserContext @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2872ms] [LOG] Using Auth0's UserContext (repeated 9 times) @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    2873ms] [LOG] SourcePoint | [event] onMessageReady [gdpr] @ https://www.bbcgoodfood.com/_next/static/chunks/pages/_app-a8b72f7a60a9acef.js:64
+[    8411ms] [WARNING] The resource https://www.bbcgoodfood.com/segment/analytics.js/v1/DqXUIAeV8f6valtkjZA8NiwwSbvcv8jR/analytics.min.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.bbcgoodfood.com/recipes/banoffee-pie:0
