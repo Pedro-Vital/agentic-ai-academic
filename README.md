@@ -1,6 +1,6 @@
-# Agentic RAG - Academic
+# Agentic AI - Academic
 
-This repository contains my self-study material and practical projects focused on **Agentic RAG and Autonomous AI Agents**, exploring how LLMs can reason, plan, and act through structured workflows.
+This repository contains my self-study material and practical projects focused on **Agentic AI**, exploring how LLMs can reason, plan, and act through structured workflows.
 
 ## Overview
 
